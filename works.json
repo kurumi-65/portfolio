@@ -98,19 +98,6 @@
     "period": "1日"
   },
   {
-    "id": "kurumi-design",
-    "title": "Kurumi Design",
-    "mainTitle": "自主制作｜WEBサイト<br>Mount your life",
-    "category": "LP | 自主制作",
-    "mainThumb": "img/works/kurumidesign.png",
-    "pcImg": "img/kurumidesign_pc.png",
-    "spImg": "img/kurumidesign_sp.png",
-    "siteUrl": "https://kurumi-65.github.io/kurumidesign/",
-    "concept": "Web制作会社を想定し、Webサイトを制作しました。<br>レスポンシブ対応をさせています。<br>写真を多くすることで、目を引くことを意識しています。",
-    "tools": "HTML / CSS",
-    "period": "1日"
-  },
-  {
     "id": "Ariseclinic New Open",
     "title": "Arise Clinic New Open",
     "mainTitle": "自主制作｜banner",
