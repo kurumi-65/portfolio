@@ -97,14 +97,21 @@ document.addEventListener('DOMContentLoaded', () => {
         setImage('detail-pc-img', workData.pcImg, 'PCキャプチャ');
         setImage('detail-sp-img', workData.spImg, 'SPキャプチャ');
 
-        // PC/SP画像エリア全体の判定（両方無い場合はエリアごと非表示）
+        // PC/SP画像エリア全体の判定
         const viewportImgContainer = document.querySelector('.viewport-img');
-        if (viewportImgContainer) {
-          if (!workData.pcImg && !workData.spImg) {
-            viewportImgContainer.style.display = 'none';
-          } else {
-            viewportImgContainer.style.display = '';
-          }
+        
+        // products-comment 要素を取得
+        const productsComment = document.querySelector('.products-comment');
+
+        if (!workData.pcImg && !workData.spImg) {
+          // 画像枠を隠す
+          if (viewportImgContainer) viewportImgContainer.style.display = 'none';
+          
+          // 画像がない場合：.products-comment に no-image クラスを付与
+          if (productsComment) productsComment.classList.add('no-image');
+        } else {
+          if (viewportImgContainer) viewportImgContainer.style.display = '';
+          if (productsComment) productsComment.classList.remove('no-image');
         }
 
         // リスト項目のセット
