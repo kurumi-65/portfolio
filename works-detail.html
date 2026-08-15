@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Works Detail | Kurumi Higa</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <link rel='stylesheet' id='font-awesome-css' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css?ver=6.8.3' type='text/css' media='all' />
+    <link href="https://fonts.googleapis.com/css2?family=Kosugi+Maru&family=Momo+Trust+Display&family=Zen+Maru+Gothic&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/destyle.css">
+    <link rel="stylesheet" href="css/slick-theme.css">
+    <link rel="stylesheet" href="css/slick.css">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <nav class="header-nav">
+            <a href="index.html" class="header-title">Kurumi Higa</a>
+            <ul class="gnav-list">
+                <li>
+                    <a href="index.html">Home</a>
+                </li>
+                <li>
+                    <a href="works.html">Works<span>制作実績</span></a>
+                </li>
+                <li>
+                    <a href="about.html">About<span>私について</span></a>
+                </li>
+                <li>
+                    <a href="mailto:kurumi.naito.6@gmail.com">Contact<span>お問い合わせ</span></a>
+                </li>
+            </ul>
+        </nav>
+
+        <button class="header-navbtn">
+            <span></span>
+        </button>
+    </header>
+
+    <main>
+        <section id="works" class="works-container">
+            <div class="inner">
+                <div class="title-inner">
+                    <h3>Works</h3>
+                    <span>- 制作実績 -</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- 制作実績詳細コンテンツエリア -->
+        <div class="products-wrap">
+            <h2 id="detail-main-title"></h2>
+            
+            <!-- メインサムネイル画像 -->
+            <img id="detail-main-thumb" src="" alt="">
+                
+            <div class="products-inner">
+                <!-- PC / SP キャプチャ画像 -->
+                <div class="viewport-img">
+                    <img id="detail-pc-img" src="" alt="PC">
+                    <img id="detail-sp-img" src="" alt="SP">
+                </div>
+                
+                <div class="products-comment">
+                    <h3 id="detail-title"></h3>
+                    <p id="detail-category"></p>
+                    <br>
+                    
+                    <h4>コンセプト</h4>
+                    <p id="detail-concept"></p>
+                    
+                    <h4>制作目的</h4>
+                    <ul id="detail-purpose"></ul>
+
+                    <h4>掲載場所</h4>
+                    <p id="detail-place"></p>
+                
+                    <h4>ターゲット</h4>
+                    <ul id="detail-target"></ul>
+                    
+                    <h4>制作のポイント</h4>
+                    <ul id="detail-points"></ul>
+                    
+                    <h4>使用ツール</h4>
+                    <p id="detail-tools"></p>
+
+                    <h4>サイズ</h4>
+                    <p id="detail-size"></p>
+                    
+                    <h4>制作期間</h4>
+                    <p id="detail-period"></p>
+
+                    <!-- 実際のサイトへのリンクボタン -->
+                    <div style="margin-top: 30px; text-align: center;">
+                        <a id="site-link" href="" target="_blank" rel="noopener noreferrer" class="visit-btn" style="display: inline-block; padding: 12px 24px; background: #333; color: #fff; border-radius: 4px; text-decoration: none;">
+                            実際のサイトを見る <i class="fa-solid fa-arrow-up-right-from-square"></i>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <div class="pagetop">
+        <a href="#">TOP</a>
+    </div>
+    
+    <footer>
+        <small>Kurumi Naito</small>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script src="js/slick.js"></script>
+    <script src="js/script.js"></script>
+    <!-- 詳細ページ専用JavaScriptを読み込み -->
+    <script src="js/detail-script.js"></script>
+</body>
+</html>

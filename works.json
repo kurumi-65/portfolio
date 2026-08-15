@@ -1,0 +1,235 @@
+[
+  {
+    "id": "arise-clinic",
+    "title": "Arise Clinic",
+    "mainTitle": "自主制作｜WEBサイト<br>Arise Clinic",
+    "category": "Web Site | 自主制作",
+    "mainThumb": "img/works/arise clinic.png",
+    "pcImg": "img/ariseclinic_pc.png",
+    "spImg": "img/ariseclinic_sp.png",
+    "siteUrl": "https://kurumi-65.github.io/ariseclinic/",
+    "concept": "自然で上品な美しさを引き出す場所<br>コンセプトに合わせ、高級感と上品さを意識しました。<br>医療機関でありながら、エステのような癒しの時間を感じてもらうことがコンセプトです。",
+    "purpose": [
+      "・新規開院するクリニックの存在をアピールし、顧客獲得に繋げるため",
+      "・コンセプトをわかりやすく伝えられるよう意識しております。"
+    ],
+    "target": [
+      "35歳前後の女性",
+      "経済的にも余裕があり、仕事や家庭も忙しいけど自分磨きも大切にしている女性"
+    ],
+    "points": [
+      "・ゴールドやベージュ、アクセントカラーにピンクを使うことで、女性らしさと高級感を表現しております。",
+      "・シンプルでありながら高級感と信頼感を意識しています。"
+    ],
+    "tools": "▽コーディング<br>HTML / CSS / JavaScript<br><br>▽デザイン<br>Figma（デザインカンプ） / Illustrator（ロゴ）",
+    "period": "2週間"
+  },
+  {
+    "id": "amuletail",
+    "title": "Amuletail（アミュレテイル）",
+    "mainTitle": "自主制作｜WEBサイト Wordpressテーマ構築<br>Amuletail",
+    "category": "Web Site | 自主制作",
+    "mainThumb": "img/works/amuletail.png",
+    "pcImg": "img/amuletail_pc.png",
+    "spImg": "img/amuletail_sp.png",
+    "siteUrl": "https://kurumi-65.github.io/amuletail/",
+    "concept": "小さな家族の「心地よさ」をまとう。<br>服を着せられるストレスを軽減し、抱きしめているような「ふわふわの心地よさ」と「ポップな可愛らしさ」を両立させた小型犬専門のECブランドです。",
+    "purpose": [
+      "・架空のペット用品ECサイトとして、WordPressでの本格的なEC機能構築と、ブランドコンセプトを体現したデザインの両立を目的としました。",
+      "・ペット用品のECサイトということで見やすさを重視しました。",
+      "・コンセプトをもったブランドのため、コンセプトの記載をすることでターゲットの感情に訴えかける訴求をしています。"
+    ],
+    "target": [
+      "20代後半〜40代の女性",
+      "愛犬を「自分の子ども」のように大切に育てており、SNSで愛犬の日常を発信している方"
+    ],
+    "points": [
+      "パステルカラーや全体的に丸みを帯びたデザインにすることで、ブランドの核となる「優しさ」と「心地よさ」を視覚的に表現し、ターゲットの感情に訴えかける設計を意識しました。"
+    ],
+    "tools": "▽コーディング<br>HTML / CSS / JavaScript / Wordpress<br><br>▽デザイン<br>Figma（デザインカンプ） / Illustrator（ロゴ）",
+    "period": "デザイン〜Wordpress構築まで2週間"
+  },
+  {
+    "id": "electoric-pc-design",
+    "title": "Electoric PC Design",
+    "mainTitle": "自主制作｜WEBサイト<br>Electoric PC Design",
+    "category": "Web Site | 自主制作",
+    "mainThumb": "img/works/electoricPCdesign.png",
+    "pcImg": "img/Electoric PC Design.png",
+    "spImg": "",
+    "siteUrl": "https://kurumi-65.github.io/Portfolio2/",
+    "concept": "PC製品の高性能・先進性・スタイリッシュさを、JavaScriptによるアニメーション表現で視覚的に伝えるプロダクト紹介サイト。<br>単に情報を並べるのではなく、「触っていて楽しい」「印象に残る」体験を重視し、ユーザーの興味を引きながら製品理解を深めることを目的としています。",
+    "purpose": [
+      "・JavaScriptを用いた動きのあるWeb表現の実装力を示すため。",
+      "・企業サイト・LP制作を想定した、実務に近い構成のポートフォリオを制作すること"
+    ],
+    "target": [
+      "PC製品に関心のある20〜40代のビジネスパーソン・クリエイター層"
+    ],
+    "points": [
+      "・JavaScriptを活用し、スクロールや操作に応じた動きを取り入れ、ユーザーの視線誘導と没入感を高めています。",
+      "・デザインと動きのバランス動きすぎず、あくまで製品情報を引き立てる演出に留め、実務サイトを想定した設計にしています。"
+    ],
+    "tools": "HTML / CSS / JavaScript",
+    "period": "1日"
+  },
+  {
+    "id": "mount-your-life",
+    "title": "Mount your life",
+    "mainTitle": "自主制作｜WEBサイト<br>Mount your life",
+    "category": "Web Site | 自主制作",
+    "mainThumb": "img/works/mountyourlife.png",
+    "pcImg": "img/mountupyourlife.png",
+    "spImg": "",
+    "siteUrl": "https://kurumi-65.github.io/Portfolio3/",
+    "concept": "PC製品の高性能・先進性・スタイリッシュさを、JavaScriptによるアニメーション表現で視覚的に伝えるプロダクト紹介サイト。<br>単に情報を並べるのではなく、「触っていて楽しい」「印象に残る」体験を重視し、ユーザーの興味を引きながら製品理解を深めることを目的としています。",
+    "purpose": [
+      "・JavaScriptを用いた動きのあるWeb表現の実装力を示すため。",
+      "・企業サイト・LP制作を想定した、実務に近い構成のポートフォリオを制作すること"
+    ],
+    "target": [
+      "PC製品に関心のある20〜40代のビジネスパーソン・クリエイター層"
+    ],
+    "points": [
+      "・JavaScriptを活用し、スクロールや操作に応じた動きを取り入れ、ユーザーの視線誘導と没入感を高めています。",
+      "・デザインと動きのバランス動きすぎず、あくまで製品情報を引き立てる演出に留め、実務サイトを想定した設計にしています。"
+    ],
+    "tools": "HTML / CSS / JavaScript",
+    "period": "1日"
+  },
+  {
+    "id": "kurumi-design",
+    "title": "Kurumi Design",
+    "mainTitle": "自主制作｜WEBサイト<br>Mount your life",
+    "category": "LP | 自主制作",
+    "mainThumb": "img/works/kurumidesign.png",
+    "pcImg": "img/kurumidesign_pc.png",
+    "spImg": "img/kurumidesign_sp.png",
+    "siteUrl": "https://kurumi-65.github.io/kurumidesign/",
+    "concept": "Web制作会社を想定し、Webサイトを制作しました。<br>レスポンシブ対応をさせています。<br>写真を多くすることで、目を引くことを意識しています。",
+    "tools": "HTML / CSS",
+    "period": "1日"
+  },
+  {
+    "id": "Ariseclinic New Open",
+    "title": "Arise Clinic New Open",
+    "mainTitle": "自主制作｜banner",
+    "category": "Banner | 自主制作",
+    "mainThumb": "img/works/banner1.png",
+    "pcImg": "img/works/banner1.png",
+    "concept": "クリニックの新規開院を仮定し、ロゴを制作しました。<br>クリニック名：ARISÉ CLINIC（アリゼクリニック）」<br>コンセプト：自然で上品な美しさを引き出す場所<br>コンセプトに合わせ、高級感と上品さを意識しました。<br>",
+    "purpose": [
+      "新規開院するクリニックの存在をアピールし、顧客獲得に繋げるため"
+    ],
+    "place":[
+      "Webサイト、SNS"
+    ],
+    "target": [
+      "35歳前後　女性",
+      "経済的にも余裕があり、仕事や家庭も忙しいけど自分磨きも大切にしている女性"
+    ],
+    "points": [
+      "・背景にシルクのようなテクスチャを入れることで、高級感を演出しています。",
+      "・ゴールドやベージュ、アクセントカラーにピンクを使うことで、女性らしさと高級感を表現しております。"
+    ],
+    "tools": "Photoshop",
+    "size": "600px × 500px",
+    "period": "2日"
+  },
+  {
+    "id": "Ariseclinic-campaign",
+    "title": "Arise Clinic キャンペーン",
+    "mainTitle": "自主制作｜banner",
+    "category": "Banner | 自主制作",
+    "mainThumb": "img/works/banner4.png",
+    "pcImg": "img/works/banner4.png",
+    "concept": "美容クリニックのキャンペーン告知を想定し、SNSバナーを制作しました。",
+    "purpose": [
+      "・新規開院キャンペーンとして「お得感」「信頼感」「女性らしさ」を同時に伝え、クリック率・来院数の向上を目的としています。",
+      "・女性向けに安心感と清潔感を大切にしております。"
+    ],
+    "place":[
+      "Webサイト、SNS"
+    ],
+    "target": [
+      "20〜30代　女性"
+    ],
+    "tools": "Canva",
+    "period": "1日"
+  },
+  {
+    "id": "Ariseclinic-campaign2",
+    "title": "Arise Clinic キャンペーン",
+    "mainTitle": "自主制作｜banner",
+    "category": "Banner | 自主制作",
+    "mainThumb": "img/works/banner3.png",
+    "pcImg": "img/works/banner3.png",
+    "concept": "美容クリニックの初回限定キャンペーンを告知するためのSNSバナー（Instagram）を作成しました。",
+    "purpose": [
+      "・初回限定キャンペーンとして「お得感」とともに、クリック率・来院数の向上を目的としています。",
+      "・女性向けに安心感と清潔感を大切にしております。"
+    ],
+    "place":[
+      "Webサイト、SNS"
+    ],
+    "target": [
+      "ニキビ肌や毛穴に悩んでいる10〜30代の女性"
+    ],
+    "points": [
+      "治療後の‘’なりたいお肌‘’が伝わることや目を引くように工夫をしました。",
+      "治療によって何が改善できるのか？などを記載することで患者様の肌悩みにアプローチしています。"
+    ],
+    "tools": "Canva",
+    "period": "1日"
+  },
+  {
+    "id": "seminar",
+    "title": "セミナーチラシ",
+    "mainTitle": "自主制作｜banner",
+    "category": "Banner | 自主制作",
+    "mainThumb": "img/works/banner5.png",
+    "pcImg": "img/works/banner5.png",
+    "concept": "40代以降の女性を対象に、美肌とエイジングケアをテーマとしたセミナー告知用チラシを制作しました。",
+    "purpose": [
+      "・セミナー告知をし、集客をすることが目的"
+    ],
+    "place":[
+      "・美容サロンやイベントスペースでの配布",
+      "・SNS",
+      "・LINE公式アカウント"
+    ],
+    "target": [
+      "40代後半　女性"
+    ],
+    "points": [
+      "・40代の方をターゲットとしているので、落ち着いた色味を基調に女性らしさと安心感が伝わるようにしました。",
+      "・美容サロンやイベントスペースでの配布、SNS投稿、LINE公式アカウントでの送信など、複数チャネルで活用できるよう、親しみやすく信頼感のあるデザインを目指しました。"
+    ],
+    "tools": "Canva",
+    "period": "1日"
+  },
+  {
+    "id": "goodpet-campaign2",
+    "title": "Good Pet キャンペーン",
+    "mainTitle": "自主制作｜banner",
+    "category": "Banner | 自主制作",
+    "mainThumb": "img/works/banner2.png",
+    "pcImg": "img/works/banner2.png",
+    "concept": "ペットグッズを販売するECサイトでのキャンペーンを告知するためのSNSバナーを作成しました。",
+    "purpose": [
+      "・一目でペット用品のキャンペーンであることを伝えることで、クリック率の向上を目的としています。"
+    ],
+    "place":[
+      "Webサイト、SNS"
+    ],
+    "target": [
+      "犬を飼っている家庭"
+    ],
+    "points": [
+      "・ペット用品を扱うため、ポップな印象に仕上げました。",
+      "・わんちゃんの写真を大きく配置することで、ペットを飼っている方の目を引くようにしました。"
+    ],
+    "tools": "Canva",
+    "period": "3時間"
+  }
+]
