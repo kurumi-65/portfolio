@@ -48,7 +48,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ul.innerHTML = '';
       listData.forEach(text => {
         const li = document.createElement('li');
-        li.textContent = text;
+        li.innerHTML = text;
         ul.appendChild(li);
       });
       ul.style.display = '';

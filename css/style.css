@@ -663,7 +663,7 @@ footer {
     }
 }
 .products-comment {
-    width: 60%;
+    width: 50%;
     @media (width <= 768px) {
         width: 100%;
     }
@@ -691,4 +691,18 @@ footer {
 .products-comment.no-image p,
 .products-comment.no-image ul {
   text-align: left;
+}
+
+/* タイトル（見出し）のスタイル */
+.point-title {
+  display: block;      /* 改行してタイトルを独立させる */
+  font-weight: bold;
+  margin: 4px;  /* 説明文との間のすき間 */
+}
+
+/* 説明文のスタイル */
+.point-desc {
+  display: block;      /* 改行させる */
+  font-size: 1.2rem;   /* タイトルより小さめの文字 */
+  line-height: 1.6;    /* 行間 */
 }

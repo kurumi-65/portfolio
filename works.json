@@ -17,18 +17,12 @@
       "50代男性学校経営者"
     ],
     "points": [
-      "・信頼性を重視した構成設計",
-      "　元教師 × ITコンサルという強みが直感的に伝わるよう、ファーストビューから実績・ストーリーへと段階的に情報を配置。",
-      "・ITに不慣れな層でも理解しやすいUI",
-      "　専門用語を避け、Before / After表現やカード型レイアウトで視覚的に理解できる構成に。",
-      "・WordPress運用を前提とした実装",
-      "　既存テーマ・ショートコードの仕様を崩さず、CSS中心で調整。管理画面から更新しやすい構造を維持。",
-      "・レスポンシブ対応・可読性の確保",
-      "　スマホ閲覧時も読みやすい文字サイズ・余白設計を意識。",
-      "・問い合わせにつながる導線設計",
-      "　強い煽りは避け、「無料ヒアリング」など心理的ハードルの低いCTAを適切に配置。",
-      "・予算に合わせたシンプルな構成",
-      "　費用をあまりかけずに制作したいというご意見をもとに予算内でできる実装を実現。"
+      "<span class='point-title'>・信頼性を重視した構成設計</span><span class='point-desc'>元教師 × ITコンサルという強みが直感的に伝わるよう、ファーストビューから実績・ストーリーへと段階的に情報を配置。</span>",
+      "<span class='point-title'>・ITに不慣れな層でも理解しやすいUI</span><span class='point-desc'>専門用語を避け、Before / After表現やカード型レイアウトで視覚的に理解できる構成に。</span>",
+      "<span class='point-title'>・WordPress運用を前提とした実装</span><span class='point-desc'>既存テーマ・ショートコードの仕様を崩さず、CSS中心で調整。管理画面から更新しやすい構造を維持。</span>",
+      "<span class='point-title'>・レスポンシブ対応・可読性の確保</span><span class='point-desc'>スマホ閲覧時も読みやすい文字サイズ・余白設計を意識。</span>",
+      "<span class='point-title'>・問い合わせにつながる導線設計</span><span class='point-desc'>強い煽りは避け、「無料ヒアリング」など心理的ハードルの低いCTAを適切に配置。</span>",
+      "<span class='point-title'>・予算に合わせたシンプルな構成</span><span class='point-desc'>費用をあまりかけずに制作したいというご意見をもとに予算内でできる実装を実現。</span>"
     ],
     "tools": "▽コーディング<br>HTML / CSS / Wordpress<br><br>▽デザイン<br>Figma（デザインカンプ）",
     "period": "デザイン〜Wordpress構築まで2週間"
